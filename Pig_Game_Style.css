@@ -84,7 +84,7 @@ body {
 }
 
 .player-current-box {
-    background-color: #EB4D4D;
+    background-color: #7CB9E8;
     color: #fff;
     width: 40%;
     margin: 0 auto;
@@ -93,6 +93,7 @@ body {
 }
 
 .player-current-label {
+    font-weight: bold;
     text-transform: uppercase;
     margin-bottom: 10px;
     font-size: 12px;
